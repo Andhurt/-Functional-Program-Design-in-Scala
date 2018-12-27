@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1311" />
+    <option name="height" value="618" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545872670281" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../Scala Specialization - École Polytechnique Fédérale de Lausanne/Functional Programming Principles in Scala/Week 1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Curso 1/Week 1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Curso 1/Week 2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Curso 1/Week 3/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Curso 1/Week 4/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Curso 1/Week 6/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Week 1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Week 2/streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Week 3/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Curso1/Week 1/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
